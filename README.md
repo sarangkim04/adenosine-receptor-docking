@@ -51,13 +51,13 @@ I explored the published crystal structure in the Mol* viewer. Residues describe
 ---
 
 ## 5. Repository structure
-
-├── README.md # Project overview
-├── pocket_3d_view.png # Mol* view of the binding pocket (Figure 1)
-├── docking_results_chart.png # Illustrative comparison chart (Figure 2)
-├── sim_docking.py # Simplified Python scoring script (learning exercise)
-└── generate_chart.py # Chart generation script
-
+```
+├── README.md                  # Project overview
+├── pocket_3d_view.png         # Mol* view of the binding pocket (Figure 1)
+├── docking_results_chart.png  # Illustrative comparison chart (Figure 2)
+├── sim_docking.py             # Simplified Python scoring script (learning exercise)
+└── generate_chart.py          # Chart generation script
+```
 
 ---
 *Created as part of an undergraduate learning portfolio in neurobiology and computational biochemistry.*
